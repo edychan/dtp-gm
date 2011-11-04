@@ -1,0 +1,39 @@
+
+!R! SMB 7;UNIT C;CASS 1;COPY 1;EXIT;
+!R! FONT 62; MAP 0,-.015; CALL VREG; EXIT,E;
+
+
+      1039CS                02/28/03                                       1039CS                 02/28/03
+   Original Title/Transfer Plate                                     Original Title/Transfer Plate
+   01      CHEVROLET           PICKUP                                01      CHEVROLET           PICKUP         
+            2GCEK19T811100002                        000028                      2GCEK19T811100002                          000028
+                                              OAKLAND                                                               OAKLAND        
+
+
+   GENERAL MOTORS LLC                                                GENERAL MOTORS LLC
+   P O BOX 436023                                                    P O BOX 436023                      
+                                                                                                         
+   PONTIAC               MI  48343 6023                              PONTIAC               MI  48343 6023
+                                                      19.00                                                                  19.00
+     060500 A1 L157 805 0001     19.00                               060500 A1 L157 805 0001     19.00
+
+
+
+
+!R! EXIT,E;
+!R! FSET 0p12h12v0s3b0t; CALL VREG; EXIT,E;
+     1039CS  03        02/28/03   9
+  Original Title/Transfer Plate
+
+  01      CHEVROLET           PICKUP         
+         2GCEK19T811100002              000028
+
+                               OAKLAND      63
+  GENERAL MOTORS LLC
+  P O BOX 436023                      
+                                      
+  PONTIAC               MI  48343 6023   19.00
+
+  060500 A1 L157 805 0001     19.00           
+
+!R! PAGE;CASS 1;EXIT,E;

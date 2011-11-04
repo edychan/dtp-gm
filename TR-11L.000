@@ -1,0 +1,63 @@
+
+!R! FSET 0p12h12v0s3b0t;CASS 1;COPY 1;CALL VTLE;EXIT,E;
+
+
+  Original Title/Transfer Plate    6931FW           02/28/01                        0.00
+
+    01       GMC                                         2GTEK19T611100015         11.00
+
+
+  PICKUP           000028                                             N             0.00
+
+  GENERAL MOTORS COMPANY                                                            8.00
+  P O BOX 436023                      
+                                                                                   19.00
+  PONTIAC               MI  48343 6023                                     63
+
+
+  NONE                                 06/05/00    NONE
+                                     
+                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  060500 A1 L157 805 0004    19.00             805L1570004
+
+!R! PAGE;EXIT,E;

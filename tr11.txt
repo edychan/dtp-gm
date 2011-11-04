@@ -1,0 +1,63 @@
+
+!R! FSET 0p12h12v0s3b0t;CASS 1;COPY 1;CALL VTLE;EXIT,E;
+
+
+  Original Title Only                               09/01/07                        0.00
+
+    06       CADILLAC                                    1G6DW677860220441         15.00
+
+
+  4 DOOR           000040         35                                  N             0.00
+
+  GENERAL MOTORS CORPORATION                                                        0.00
+  7133 E 11 MILE                      
+                                                                                   15.00
+  WARREN                MI  48092                                          50
+
+
+  GELCO CORPORATION                    08/14/06    NONE
+  3 CAPITAL DRIVE                    
+  EDEN PRAIRIE          MN  55344
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  081406 A1 T226 800 0012    15.00             800T2260012
+
+!R! PAGE;EXIT,E;

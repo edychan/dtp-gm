@@ -1,0 +1,63 @@
+
+!R! FSET 0p12h12v0s3b0t;CASS 1;COPY 2;CALL VTLE;EXIT,E;
+
+
+  RENEWAL OF SAMPLE                ABC123           04/01/00                      186.00
+
+    99       FORD                                       5L38W389732X34567          11.00
+
+
+  4 DOOR          25                                                N               0.00
+
+  FORD MOTOR COMPANY                                                                8.00
+  WORLD HEADQUARTERS - RM37           
+  THE AMERICAN ROAD                                                               205.00
+  DEARBORN              MI  48121                                        33
+
+
+
+  NONE                                 03/19/98    NONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  031998 031998 A1 J123 801 0457    205.00            801J1230457
+
+!R! PAGE;EXIT,E;

@@ -1,0 +1,42 @@
+!R! FSET 1p50v4s3b4148t;SMB 7;UNIT C;CASS 0;MAP 14,11;EXIT;04
+!R! FSET 1p33v4s3b1418t; MAP 15.75,10.75;TEXT '-'; MAP 16,10.7;EXIT;00
+!R! FSET 1p12v4s3b4148t; MAP 15.55,9.55;EXIT;ABC123 
+!R! FONT 42; MAP 14.25,9.5;TEXT 'MI';MAP 15,11.5;EXIT;801J123
+!R! EXIT;
+!R! FONT 62; MAP 0,-.015; CALL VREG; EXIT,E;
+
+
+      ABC123                04/01/00                                       ABC123                04/01/00
+   RENEWAL OF SAMPLE                                                 RENEWAL OF SAMPLE                           
+   99     FORD               4 DOOR                                  99     FORD               4 DOOR     
+            5L38W389732X34567                       25                         5L38W389732X34567                         25    
+                                              WAYNE                                                                WAYNE       
+
+
+   FORD MOTOR COMPANY                                                FORD MOTOR COMPANY                  
+   WORLD HEADQUARTERS - RM37                                         WORLD HEADQUARTERS - RM37           
+   THE AMERICAN ROAD                                                 THE AMERICAN ROAD                   
+   DEARBORN              MI  48121                                   DEARBORN              MI  48121     
+                                                    33.00                                                                    33.00
+     031998 A1 J123 801 0457     33.00                               031998 A1 J123 801 0457     33.00  
+
+
+
+
+!R! EXIT,E;
+!R! FSET 0p12h12v0s3b0t; CALL VREG; EXIT,E;
+     ABC123  01       04/01/00  12
+  RENEWAL OF SAMPLE         
+
+  99     FORD               4 DOOR     
+         5L38W389732X34567             25    
+
+                               WAYNE         32
+  FORD MOTOR COMPANY                  
+  WORLD HEADQUARTERS - RM37           
+  THE AMERICAN ROAD                   
+  DEARBORN              MI  48121        33.00
+
+              031998 A1 J123 801 0457     33.00  
+
+!R! PAGE;CASS 1;EXIT,E;

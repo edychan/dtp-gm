@@ -1,0 +1,19 @@
+C>SEARCH /glh2name/ *.prg
+
+SEARCH  Ver 2.2
+Copyright (C) 1986, 1987, Solid Software, Inc. and Buzzwords International, Inc.
+
+Searching for "glh2name"
+ ... ignoring case.
+
+Found in line 362 of file RDTP.PRG:
+   ylh2name = glh2name              && 10.21.09
+
+Found in line 235 of file RDTP5A.PRG:
+      L_F552LIEN = glh2name           && C36 2ND LIEN NAME                   
+
+Found in line 144 of file RINIT.PRG:
+public glh2name, glh2addr, glh2city, glh2state, glh2zip
+
+Found in line 159 of file RINIT.PRG:
+glh2name = [STATE ST BK&TRST TTEEUAWTRST10/16/08]
